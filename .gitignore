@@ -1,6 +1,7 @@
-.env
+*.env
 node_modules
-.log
-.tmp
-.idea
-.build
+*.log
+*.tmp
+*.idea
+*.build
+
